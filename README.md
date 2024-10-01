@@ -6,3 +6,6 @@ Usuarios
 - Nuevos estudiantes
 - Personal administrativo
 - Profesores
+
+Desarrolladores:
+Saulo Isai Sanchez Sanchez
