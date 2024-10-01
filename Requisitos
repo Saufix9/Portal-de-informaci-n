@@ -1,0 +1,12 @@
+Requisitos Funcionales
+
+1. **Registro de usuarios**: Los estudiantes deben poder registrarse con su correo institucional.
+2. **Acceso a información académica**: Los usuarios podrán acceder a horarios, programas de estudio y contactos de profesores.
+3. **Contacto con tutores**: Los estudiantes podrán enviar consultas a los tutores asignados.
+
+
+Requisitos No Funcionales
+
+1. **Rendimiento**: El sitio debe cargar en menos de 2 segundos.
+2. **Seguridad**: Los datos personales deben estar protegidos con autenticación segura.
+3. **Escalabilidad**: El sistema debe poder manejar picos de tráfico durante la temporada de inscripciones.
