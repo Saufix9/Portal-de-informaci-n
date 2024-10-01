@@ -1,6 +1,5 @@
 Website de Bienvenida - Universidad Autónoma de Yucatán
 
-Descripción del Producto
 Este proyecto consiste en el desarrollo de un sitio web de bienvenida para los nuevos estudiantes de la Universidad Autónoma de Yucatán, con el objetivo de facilitar su integración y acceso a información clave.
 
 Usuarios
