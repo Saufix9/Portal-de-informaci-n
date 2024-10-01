@@ -10,3 +10,15 @@ Requisitos No Funcionales
 1. **Rendimiento**: El sitio debe cargar en menos de 2 segundos.
 2. **Seguridad**: Los datos personales deben estar protegidos con autenticación segura.
 3. **Escalabilidad**: El sistema debe poder manejar picos de tráfico durante la temporada de inscripciones.
+
+Artefactos 
+Diagrama de Casos de Uso:
+Actores: Estudiantes, Personal Administrativo, Profesores.
+Casos de Uso:
+Registro de estudiantes.
+Consulta de información académica.
+Contacto con tutores.
+Acceso a calendario de eventos.
+
+Diagrama de Flujo de Usuario (User Flow)
+Inicio → Registro → Validación de cuenta → Acceso a información académica.
