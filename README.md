@@ -1,7 +1,9 @@
-# Portal-de-informacion
-Portal a la Información para aspirantes a la Ingeniería de Software: El portal de infromación para aspirantes a IS es una plataforma web diseñada para proporcionar información a estudiantes de bachillerato. :]
+Website de Bienvenida - Universidad Autónoma de Yucatán
 
-Desarrolladores:
-Saulo Isai Sanchez Sanchez
+Descripción del Producto
+Este proyecto consiste en el desarrollo de un sitio web de bienvenida para los nuevos estudiantes de la Universidad Autónoma de Yucatán, con el objetivo de facilitar su integración y acceso a información clave.
 
-
+Usuarios
+- Nuevos estudiantes
+- Personal administrativo
+- Profesores
